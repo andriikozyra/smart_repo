@@ -4,4 +4,4 @@ def strsort(string):
         result = result + i
     return (result)
 
-print(strsort('lgtdkpdcba'))
+print(strsort('lwgtdkpdcba'))
