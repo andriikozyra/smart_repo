@@ -1,5 +1,0 @@
-recursion
-try except
-list .join (склеить стринги в одну строку)
-
-return value[slice(0, len(value), len(value)-1)] => value[0] + value[-1]
