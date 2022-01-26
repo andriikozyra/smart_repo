@@ -1,0 +1,7 @@
+git checkout main
+git pull
+git checkout -b exercise-module-1
+git commit -am "blabla"
+git push
+
+(git pull origin main)
